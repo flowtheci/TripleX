@@ -1,0 +1,5 @@
+A serial killer has hidden multiple high-tech lockboxes at a body of his latest murder.
+
+Boxes include locations to next bodies, which all have boxes with them.
+
+Completing a certain amount of boxes results in the killer publishing his name and getting arrested.
